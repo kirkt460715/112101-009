@@ -1,0 +1,19 @@
+{
+  "collection": "records.json",
+  "record_fields": [
+    "unit_ref",
+    "school_ref",
+    "assigned_variant",
+    "exposure_variant",
+    "exposure_at",
+    "registered"
+  ],
+  "example_record": {
+    "unit_ref": "u-01",
+    "school_ref": "s-01",
+    "assigned_variant": "A",
+    "exposure_variant": "A",
+    "exposure_at": "2026-02-01T10:00:00Z",
+    "registered": true
+  }
+}

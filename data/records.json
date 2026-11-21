@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "unit_ref": "u-01",
+      "school_ref": "s-01",
+      "assigned_variant": "A",
+      "exposure_variant": "A",
+      "exposure_at": "2026-02-01T10:00:00Z",
+      "registered": true
+    },
+    {
+      "unit_ref": "u-02",
+      "school_ref": "s-01",
+      "assigned_variant": "B",
+      "exposure_variant": "A",
+      "exposure_at": "2026-02-02T10:00:00Z",
+      "registered": false
+    },
+    {
+      "unit_ref": "u-03",
+      "school_ref": "s-02",
+      "assigned_variant": "B",
+      "exposure_variant": null,
+      "exposure_at": null,
+      "registered": null
+    },
+    {
+      "unit_ref": "u-04",
+      "school_ref": "s-02",
+      "assigned_variant": "A",
+      "exposure_variant": "A",
+      "exposure_at": "2026-02-03T10:00:00Z",
+      "registered": true
+    }
+  ]
+}
